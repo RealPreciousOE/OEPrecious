@@ -20,5 +20,5 @@ I'm passionate about building clean, responsive, and user-friendly web applicati
 - 📘 Facebook Login Clone
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/OEPrecious
-- X: https://x.com/OEPrecious
+- GitHub: https://github.com/RealPreciousOE 
+- X: https://x.com/RealPreciousOE
